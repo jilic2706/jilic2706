@@ -8,7 +8,7 @@ I'm a recent graduate from RIT Croatia. Technically a full-stack developer altho
 
 *   🌍  I'm based in Croatia
 *   ✉️  You can contact me at [josip.ilic@outlook.com](mailto:josip.ilic@outlook.com)
-*   🧠  I'm learning Next.js, TypeScript
+*   🧠  I'm learning Vue, Next.js, TypeScript
 *   🤝  I'm open to collaborating on anything, really.
 
 ### Skills (in order of proficiency)
